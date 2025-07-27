@@ -1,0 +1,56 @@
+@media screen and (max-width: 479px) {
+  .wrapper {
+    float: none;
+    width: 100%;
+  }
+
+  .contents,
+  .right,
+  .center {
+    float: none;
+    width: 100%;
+  }
+
+ 
+  .box1 {
+    float: none;
+    width: 100%;
+    height: 100px;
+  }
+
+  .box2 {
+    float: none;
+    width: 100%;
+    height: 100px;
+  }
+
+  .box3 {
+    float: none;
+    width: 100%;
+    height: 50px;
+  }
+
+  .box4 {
+    float: none;
+    width: 100%;
+    height: 100px;
+  }
+
+  .box5 {
+    float: none;
+    width: 100%;
+    height: 100px;
+  }
+
+  .box6 {
+    float: none;
+    width: 100%;
+    height: 100px;
+  }
+
+  .box7 {
+    float: none;
+    width: 100%;
+    height: 100px;
+  }
+}

@@ -74,6 +74,7 @@ body {
 
 /* 黄色 */
 .box6 {
+  float: left;
   width: 250px;
   height: 100px;
   background-color: #fff083;
