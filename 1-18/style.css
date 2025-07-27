@@ -1,0 +1,87 @@
+body {
+    min-height: 100%;
+    height: 100%;
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.contents{
+  height: 250px;
+  width: 400px;
+}
+
+.center{
+  float: left;
+  height: 150px;
+  width: 150px;
+}
+
+/* オレンジ */
+.box1 {
+  width: 400px;
+  height: 100px;
+  background-color: #ffce7a;
+}
+
+/* 水色 */
+.box2 {
+  float: left;
+  width: 150px;
+  height: 250px;
+  background-color: #9dddf4;
+}
+
+/*右側*/
+.right{
+  float: right;
+  height: 150px;
+  width: 100px;
+
+}
+
+/* 緑 */
+.box3 {
+  float: left;
+  width: 150px;
+  height: 50px;
+  background-color: #c2ffc8;
+}
+
+/* ピンク */
+.box4 {
+  float: right;
+  width: 150px;
+  height: 100px;
+  background-color: #ffc2c5;
+}
+
+/* 赤 */
+.box5 {
+  float: right;
+  width: 100px;
+  height: 150px;
+  background-color: #f89c9c;
+}
+
+/* 黄色 */
+.box6 {
+  width: 250px;
+  height: 100px;
+  background-color: #fff083;
+}
+
+/* 紫：最下段 */
+.box7 {
+  width: 400px;
+  height: 100px;
+  background-color: #bea5ff;
+}
