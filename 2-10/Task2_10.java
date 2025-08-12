@@ -25,7 +25,7 @@ public class Task2_10 {
          System.out.println();
 
         for (int k = 5; k <= 9; k++) {
-            System.out.println(k + "||");            
+            System.out.print(k + "||");            
             for (int j = 1; j <= 9; j++) {
                	System.out.print(k * j + "|");
                 }
